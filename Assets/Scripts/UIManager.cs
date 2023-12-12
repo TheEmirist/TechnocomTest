@@ -15,4 +15,9 @@ public class UIManager : MonoBehaviour
     {
         
     }
+
+    public void TestButtton()
+    {
+        Debug.Log("It works!");
+    }
 }
