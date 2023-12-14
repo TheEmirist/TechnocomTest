@@ -16,7 +16,7 @@ public class UIManager : MonoBehaviour
         
     }
 
-    public void TestButtton()
+    public void TestButton()
     {
         Debug.Log("It works!");
     }
